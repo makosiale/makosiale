@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer and student from Russia</h3>
 
-https://hh.ru/resume/7ea857a4ff0816e19d0039ed1f754a794d4473
+![image](https://github.com/user-attachments/assets/046ffcfd-31d3-48c4-9f27-209b3d728b66)
+
 
 <!--
 **makosiale/makosiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
