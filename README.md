@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://hh.ru/resume/7ea857a4ff0816e19d0039ed1f754a794d4473" target="_blank">Maksim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java developer and student from Russia 🇷🇺</h3>
+<h3 align="center">Java developer and student from Russia</h3>
 
+https://hh.ru/resume/7ea857a4ff0816e19d0039ed1f754a794d4473
 
 <!--
 **makosiale/makosiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
